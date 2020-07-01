@@ -1,0 +1,42 @@
+# Diese viminfo-Datei wurde von Vim 8.2 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Viminfo version
+|1,4
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Befehlszeile Geschichte (neueste bis älteste):
+:x
+|2,0,1593532856,,"x"
+
+# Suchausdruck Geschichte (neueste bis älteste):
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Debug-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+
+# Datei-Markierungen:
+'0  1  6  ~/tel-ran12/hw1.txt
+|4,48,1,6,1593532856,"~/tel-ran12/hw1.txt"
+
+# Jumplist (neueste zuerst):
+-'  1  6  ~/tel-ran12/hw1.txt
+|4,39,1,6,1593532856,"~/tel-ran12/hw1.txt"
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> ~/tel-ran12/hw1.txt
+	*	1593532847	0
+	"	1	6
+	^	1	7
+	.	1	7
+	+	1	7
